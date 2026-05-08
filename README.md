@@ -1,6 +1,5 @@
 # Optimizer & LR Schedule Interactions for Genomic Classification 🧬
 
-> **ASDS 6304 — Optimization Methods · Group 5 · University of Texas at Arlington · Spring 2026**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.10-ee4c2c.svg)](https://pytorch.org)
